@@ -1,0 +1,54 @@
+h1 {
+    color:red;
+    
+}
+
+figure{
+    background:red;
+    width:150px;
+    height:150px;
+    text-align:center;
+    padding:20px;
+    color:white;
+    border: 5px solid rgb(129, 32, 32);
+    float:left;
+    margin:auto;
+}
+
+#second{
+    background:green;
+    width:150px;
+    height:150px;
+    text-align:center;
+    padding:20px;
+    color:white;
+    border: 5px solid rgb(129, 32, 32);
+    margin:auto
+}
+
+#third{
+    background:blue;
+    width:150px;
+    height:150px;
+    text-align:center;
+    padding:20px;
+    color:white;
+    border: 5px solid rgb(129, 32, 32);
+    margin:auto;
+}
+
+
+#chat{
+    background:purple;
+    width:150px;
+    height:150px;
+    text-align:center;
+    padding:20px;
+    color:white;
+    border: 5px solid rgb(129, 32, 32);
+    margin:auto;
+    position:fixed;
+    bottom:0;
+    right: 0;
+    
+}
